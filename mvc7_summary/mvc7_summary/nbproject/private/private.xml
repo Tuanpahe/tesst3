@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/fall2022/mvc7_summary/mvc7_summary/web/search2.html</file>
+            <file>file:/D:/fall2022/mvc7_summary/mvc7_summary/web/insert.html</file>
+            <file>file:/D:/fall2022/mvc7_summary/mvc7_summary/web/WEB-INF/web.xml</file>
+            <file>file:/D:/fall2022/mvc7_summary/mvc7_summary/src/java/controller/UpdateServlet.java</file>
+            <file>file:/D:/fall2022/mvc7_summary/mvc7_summary/src/java/model/DBContext.java</file>
+            <file>file:/D:/fall2022/mvc7_summary/mvc7_summary/src/java/controller/Search1Servlet.java</file>
+            <file>file:/D:/fall2022/mvc7_summary/mvc7_summary/src/java/model/Student.java</file>
+            <file>file:/D:/fall2022/mvc7_summary/mvc7_summary/web/update.html</file>
+            <file>file:/D:/fall2022/mvc7_summary/mvc7_summary/src/java/controller/ListServlet.java</file>
+            <file>file:/D:/fall2022/mvc7_summary/mvc7_summary/web/update.jsp</file>
+            <file>file:/D:/fall2022/mvc7_summary/mvc7_summary/src/java/model/MyDAO.java</file>
+            <file>file:/D:/fall2022/mvc7_summary/mvc7_summary/web/sort.jsp</file>
+            <file>file:/D:/fall2022/mvc7_summary/mvc7_summary/web/list.jsp</file>
+            <file>file:/D:/fall2022/mvc7_summary/mvc7_summary/web/index.html</file>
+            <file>file:/D:/fall2022/mvc7_summary/mvc7_summary/web/delete.html</file>
+            <file>file:/D:/fall2022/mvc7_summary/mvc7_summary/src/java/controller/InsertServlet.java</file>
+            <file>file:/D:/fall2022/mvc7_summary/mvc7_summary/web/delete.jsp</file>
+            <file>file:/D:/fall2022/mvc7_summary/mvc7_summary/web/search1.html</file>
+            <file>file:/D:/fall2022/mvc7_summary/mvc7_summary/src/java/model/StudentDAO.java</file>
+            <file>file:/D:/fall2022/mvc7_summary/mvc7_summary/web/search1.jsp</file>
+        </group>
+    </open-files>
+</project-private>
